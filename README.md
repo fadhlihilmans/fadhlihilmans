@@ -1,8 +1,8 @@
-# Halowww 👋! 
+# Halowww 👋 
  
-Nama Saya **Fadhli Hilman Saputra**.<br>
+Saya **Fadhli Hilman Saputra**.<br>
  
-Saya mahasiswa di Institut Widya Pratama Pekalongan .<br>
+ Saya sekarang adalah mahasiswa di Institut Widya Pratama Pekalongan .<br>
   
 ### Github Statistic
 <p align="left">
