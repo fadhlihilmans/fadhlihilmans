@@ -2,7 +2,7 @@
  
 Nama Saya **Fadhli Hilman Saputra**.<br>
  
-Saya mahahasiswa **Mahasiswa** di Instityt Widya Pratama .<br>
+Saya mahahasiswa di Institut Widya Pratama Pekalongan .<br>
   
 ### Github Statistic
 <p align="left">
