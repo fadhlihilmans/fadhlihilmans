@@ -1,8 +1,8 @@
-# Halo semua! 
+# Halowww 👋! 
  
-Perkenalkan nama saya **Fadhli Hilman Saputra**.<br>
+Nama Saya **Fadhli Hilman Saputra**.<br>
  
-Saya seorang **Mahasiswa** di STMIK WP .<br>
+Saya mahahasiswa **Mahasiswa** di Instityt Widya Pratama .<br>
   
 ### Github Statistic
 <p align="left">
